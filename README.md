@@ -7,7 +7,8 @@ RelayX is a decentralized offline communication platform that enables messaging 
 The application allows nearby devices to communicate through relay nodes, extending communication beyond direct device range. Messages can travel across multiple devices, making RelayX suitable for emergency communication, remote environments, and decentralized networking scenarios.
 
 Features
-📡 WiFi Direct device discovery and connection
+📡 WiFi Direct device discovery and connections
+
 🔄 Multi-hop relay messaging
 🌐 Overlay mesh networking architecture
 🔐 End-to-end encrypted communication
