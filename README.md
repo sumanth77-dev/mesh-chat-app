@@ -1,16 +1,23 @@
 # mesh_chat_app
 
-A new Flutter project.
+RelayX 🚀
 
-## Getting Started
+RelayX is a decentralized offline communication platform that enables messaging without internet access using WiFi Direct and overlay mesh networking.
 
-This project is a starting point for a Flutter application.
+The application allows nearby devices to communicate through relay nodes, extending communication beyond direct device range. Messages can travel across multiple devices, making RelayX suitable for emergency communication, remote environments, and decentralized networking scenarios.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+📡 WiFi Direct device discovery and connection
+🔄 Multi-hop relay messaging
+🌐 Overlay mesh networking architecture
+🔐 End-to-end encrypted communication
+💾 Local message persistence using Hive
+🔔 Offline local notifications
+📊 Real-time mesh network visualization
+🚦 TTL-based packet forwarding
+🛡 Duplicate packet prevention
+📦 Store-and-forward delivery system
+📨 Reliable delivery acknowledgements (ACK)
+🔁 Automatic retry mechanism for offline recipients
+⚡ Real-time socket communication
+📱 Modern Flutter-based cross-platform UI
